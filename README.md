@@ -2,7 +2,7 @@
 Sabanci University DSA210 Introduction to Data Science course Fall 2023-2024 Term Project.
 This project will be about my Instagram usage analysis.
 
-Motivation:
+Motivation
 In today's digital age, social media platforms play a significant role in our daily lives. However, excessive usage can impact productivity, mental health, and overall well-being. By monitoring my Instagram usage, I aim to gain a deeper understanding of my habits and patterns.
 
 This project will allow me to identify trends in my usage, such as the time of day I am most active, the duration of my sessions, and how my activity aligns with my daily routines. Through this analysis, I hope to uncover insights about my relationship with social media and make more informed decisions about managing my time effectively.
