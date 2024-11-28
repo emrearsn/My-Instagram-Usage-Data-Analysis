@@ -2,7 +2,7 @@
 Sabanci University DSA210 Introduction to Data Science course Fall 2023-2024 Term Project.
 This project will be about my Instagram usage analysis.
 
-Motivation
+## Motivation
 In today's digital age, social media platforms play a significant role in our daily lives. However, excessive usage can impact productivity, mental health, and overall well-being. By monitoring my Instagram usage, I aim to gain a deeper understanding of my habits and patterns.
 
 This project will allow me to identify trends in my usage, such as the time of day I am most active, the duration of my sessions, and how my activity aligns with my daily routines. Through this analysis, I hope to uncover insights about my relationship with social media and make more informed decisions about managing my time effectively.
@@ -10,13 +10,13 @@ This project will allow me to identify trends in my usage, such as the time of d
 Additionally, this project is an opportunity to apply data analysis and machine learning techniques to a real-world dataset, showcasing my ability to derive meaningful conclusions from personal data.
 
 
-Data Source
+## Data Source
 The data for this project will be collected directly from Instagram using;
 
 Instagram Insights: Provides metrics like daily screen time, number of sessions, and activity breakdown.
 Manual Logging: If required, I will record additional details manually, such as the type of activities (e.g., posting, browsing, messaging) and interactions.
 
-Data Fields
+## Data Fields
 
 The dataset will include the following fields:
 
@@ -33,14 +33,14 @@ Interactions:
 Number of likes, comments, or direct messages sent.
 
 
-Data Collection Plan
+## Data Collection Plan
 
 Daily Tracking: Data will be logged at the end of each day for this semester (Fall 2024)
 Storage: I will store the data in a structured format for ease of analysis.
 Privacy: Only aggregated metrics will be used in the analysis; I will share no private information of mine.
 
 
-Methods
+## Methods
 To analyze my Instagram usage data, I will employ the following techniques:
 
 1. Data Collection
