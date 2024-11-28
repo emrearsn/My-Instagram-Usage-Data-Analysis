@@ -43,34 +43,34 @@ Privacy: Only aggregated metrics will be used in the analysis; I will share no p
 ## Methods
 To analyze my Instagram usage data, I will employ the following techniques:
 
-1. Data Collection
+#### 1. Data Collection
 Frequency: Data will be recorded daily for a predefined period (e.g., one month).
 Sources: I will collect data directly from Instagram's shared personal data
 
-2. Data Preprocessing
+#### 2. Data Preprocessing
 Data Cleaning: I will ensure the dataset is free from missing or inconsistent entries.
 Data Transformation: I will convert raw metrics into meaningful formats (e.g., calculating average daily screen time or session duration).
 Feature Engineering: I will create derived metrics such as:
 Average time per session.
 Percentage of time spent on different activities.
 
-3. Exploratory Data Analysis (EDA)
+#### 3. Exploratory Data Analysis (EDA)
 I will analyze trends and patterns over time, such as:
 Daily, weekly, and hourly activity levels.
 Correlation between screen time and activity type.
 Use statistical methods to summarize key findings.
 
-4. Visualization
+#### 4. Visualization
 I will create visual representations to make the data more interpretable:
 Line charts for daily screen time trends.
 Heatmaps for most active times during the day.
 Bar charts showing the breakdown of activity types.
 
-5. Machine Learning
+#### 5. Machine Learning
 Clustering: I will identify patterns in usage behavior by grouping similar days based on screen time and activity types.
 Prediction: I will explore simple models (e.g., linear regression) to predict future usage patterns based on historical data.
 
-6. Reporting
+#### 6. Reporting
 I will summarize key findings in a structured report.
 I will discuss limitations and propose ideas for future work like monitoring other apps and combining multiple social media platforms
 
